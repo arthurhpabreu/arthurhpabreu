@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Arthur Henrique de Paula Abreu!
+# 👋 Hello, I'm Arthur Henrique Abreu!
 
 ## 🚀 Full Stack Developer | C# | .NET | Node.js | NestJS | Angular
 
