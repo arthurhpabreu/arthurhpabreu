@@ -36,7 +36,6 @@ I'm a passionate Full Stack Developer with experience in building scalable and h
 
 ## 📬 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-henrique-abreu/)
-- 💻 [GitHub](https://github.com/arthurhpabreu)
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/arthurhenriqued1)
 - 📧 arthurhenriquedepaula@gmail.com
 
