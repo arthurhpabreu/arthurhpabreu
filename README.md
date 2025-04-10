@@ -6,10 +6,7 @@ I'm a passionate Full Stack Developer with experience in building scalable and h
 
 ### 💡 About Me
 - 🎓 Graduated in Information Systems and completed a postgraduate degree in Full Stack Development.
-- 🏆 Developed Selenium and PlayWright test automation, significantly improving workflow efficiency.
 - 🌱 Constantly learning new technologies, currently deepening my knowledge in **Node.js, NestJS and Next.js**.
-- ✈️ Aspiring to relocate to **USA**, looking for international opportunities with **visa sponsorship**.
-
 ---
 
 ## 📊 GitHub Stats
