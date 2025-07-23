@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer | C# | .NET | Node.js | NestJS | Angular
 
-I'm a passionate Full Stack Developer with experience in building scalable and high-performance applications. Currently, I work at the **Tribunal de Contas do Estado de Minas Gerais, Brazil**, through **Inova Tecnologia**. My skills include **C#/.NET, Node.js, Angular**.
+I'm a passionate Full Stack Developer with experience in building scalable and high-performance applications. Currently, I work at **Oransys IT Solutions, Brazil**. My skills include **C#/.NET, Node.js, Angular**.
 
 ### 💡 About Me
 - 🎓 Graduated in Information Systems and completed a postgraduate degree in Full Stack Development.
