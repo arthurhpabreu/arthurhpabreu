@@ -7,14 +7,6 @@ I'm a passionate Full Stack Developer with experience in building scalable and h
 ### 💡 About Me
 - 🎓 Graduated in Information Systems and completed a postgraduate degree in Full Stack Development.
 - 🌱 Constantly learning new technologies, currently deepening my knowledge in **Node.js, NestJS and Next.js**.
----
-
-## 📊 GitHub Stats
-<div>
-  <a href="https://github.com/arthurhpabreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhpabreu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhpabreu&layout=compact&langs_count=8&theme=monokai">
-</div>
 
 ---
 
